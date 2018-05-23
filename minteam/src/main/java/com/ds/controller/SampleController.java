@@ -7,4 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/sample")
 public class SampleController {
 	
+	public void test1() throws Exception {
+		
+	}
 }
