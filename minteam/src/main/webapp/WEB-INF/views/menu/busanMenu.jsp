@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<title></title>
 </head>
 <body>
-
+<h1>busan</h1>
 </body>
 </html>

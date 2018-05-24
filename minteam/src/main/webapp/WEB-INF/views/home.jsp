@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
@@ -14,7 +15,7 @@
 <style>
 .entry {
 	width: 100%;
-	height: 150%;
+	height: 100%;
 	background-image: url('resources/img/airplan.jpg')
 }
 </style>
@@ -738,6 +739,18 @@
 	<!-- Custom scripts for this template -->
 	<script src="resources/js/agency.min.js"></script>
 
+=======
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page session="false" %>
+<html>
+<head>
+	<title>Home</title>
+</head>
+<body>
+<h1>
+	home.jsp
+</h1>
+>>>>>>> branch 'master' of https://github.com/mbh0204/minteam.git
 </body>
 
 </html>
