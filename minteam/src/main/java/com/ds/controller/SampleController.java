@@ -12,4 +12,9 @@ public class SampleController {
 	public void test1() throws Exception {
 		
 	}
+	
+	@RequestMapping(value = "/test2", method = RequestMethod.GET)
+	public void test2() throws Exception {
+		
+	}
 }
