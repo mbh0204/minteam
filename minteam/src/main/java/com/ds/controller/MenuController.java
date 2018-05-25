@@ -12,4 +12,5 @@ public class MenuController {
 	public String busan() throws Exception{
 		return "/menu/busanMenu";
 	}
+	
 }
